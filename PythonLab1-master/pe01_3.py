@@ -1,0 +1,1 @@
+print("Albert Eistein once said,\n \"A person who never made a mistake\nhas never tried anything new\"")
